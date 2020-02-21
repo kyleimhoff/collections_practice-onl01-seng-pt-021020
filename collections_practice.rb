@@ -38,5 +38,6 @@ def add_s(array)
   array.collect! do |x|
     x + "s"
   end
+  array[1].slice(-1)
 end
   
