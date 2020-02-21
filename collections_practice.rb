@@ -24,5 +24,5 @@ def kesha_maker(array)
     word.slice(2)
     word.insert(2, "$")
   end
-  
+end
   
